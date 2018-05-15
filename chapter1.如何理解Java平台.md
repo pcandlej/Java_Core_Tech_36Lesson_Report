@@ -2,15 +2,15 @@
 
 1. 宣传中的样子
 
-```
-Write once, run anywhere
-```
+    ```
+    Write once, run anywhere
+    ```
 
 1. 吐槽时的样子
 
-```
-形式主义的语法
-```
+    ```
+    形式主义的语法
+    ```
 
 1. 典型回答
     1. 书写一次，到处运行(Write once, run anywhere) -- 跨平台
