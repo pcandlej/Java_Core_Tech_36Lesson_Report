@@ -15,6 +15,8 @@
 
 * 理解Throwable、Exception、Error的设计和分类
 
+![Throwable Class](img/Throwable类图.pdf)
+
 ```yaml
 Object.Throwable:
   Error:
